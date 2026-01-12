@@ -1,0 +1,12 @@
+*.o
+*.so
+*.dll
+target
+.cargo
+rust/vendor
+Makevars
+Makevars.win
+.Rproj.user/
+.Ruserdata
+.Rhistory
+.Rapp.history
