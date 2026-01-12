@@ -2,3 +2,9 @@
 src/rust/vendor
 src/Makevars
 src/Makevars.win
+.Rproj.user/
+.Ruserdata
+.Rhistory
+.Rapp.history
+.vscode
+.DS_Store
